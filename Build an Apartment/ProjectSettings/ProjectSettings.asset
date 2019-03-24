@@ -158,7 +158,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.thiagolozzerzippinotti.course2project
+    Android: com.ThiagoLozzerZippinotti.Course2Project
     Standalone: com.Company.ProductName
     Tizen: com.MattSonic.Course2Project
     iOS: com.udacity.buildanapartment
