@@ -125,6 +125,7 @@ GameObject:
   - component: {fileID: 1353403}
   - component: {fileID: 1353401}
   - component: {fileID: 1353404}
+  - component: {fileID: 1353402}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -179,6 +180,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &1353402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1353399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25417d8bf1f59504ebb38891f9cc4c63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1353404}
+  triggerName: rotate
 --- !u!33 &1353403
 MeshFilter:
   m_ObjectHideFlags: 0
