@@ -1,3 +1,7 @@
+# Project info
+Name: Thiago Lozzer Zippinotti
+Taregt: Android
+
 # Build an Apartment
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
@@ -23,5 +27,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 >**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.170.0, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
 
 
-### Other Details
-- This submission is for Android
+### Project experiences
+- The project took about 50h of work to be completed.
+- The thing that I really liked in this project was to learn about lighting in Unity
+- The most challenging thing in this project was exactly what a liked most: lighting. Understand all those parameters was a real challenge.
