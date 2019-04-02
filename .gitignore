@@ -31,4 +31,5 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
+Assets/*.apk
 *.unitypackage
