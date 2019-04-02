@@ -1,7 +1,7 @@
 # Project info
 - Name: Thiago Lozzer Zippinotti
 - Summary: Project 2 of the Udacity's VR Foundation Course - Building an apartment. This is a VR scene of an apartment with a globe. When you click the HMD button or tap the device screen, the globe starts/stops rotating.
-- Taregt: Android
+- Target: Android
 
 # Build an Apartment
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
