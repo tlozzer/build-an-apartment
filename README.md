@@ -1,5 +1,6 @@
 # Project info
 - Name: Thiago Lozzer Zippinotti
+- Summary: Project 2 of the Udacity's VR Foundation Course - Building an apartment
 - Taregt: Android
 
 # Build an Apartment
