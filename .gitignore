@@ -1,6 +1,7 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
 
@@ -31,5 +32,8 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-Assets/*/*.apk
+*.apk
 *.unitypackage
+
+# Exceptions
+![Bb]uild/build-an-apartment.apk
